@@ -15,7 +15,7 @@ Calculator works in the browser and node.js. Take your pick. For the browser. Fo
 ​
 ```
 
-cd Weatherjs(folder)
+cd Calculator(folder)
 npm init
 npm i express
 npm i body-parse
