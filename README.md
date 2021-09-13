@@ -1,5 +1,7 @@
 # Calculator
 
+Just an experiment !
+
 ## Install
 
 ​
