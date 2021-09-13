@@ -1,6 +1,6 @@
 # Calculator
 
-Just an experiment !
+This is just an experiment !
 
 ## Install
 
